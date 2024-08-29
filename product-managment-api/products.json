@@ -1,0 +1,404 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "High-Performance Laptop",
+      "category": "Electronics",
+      "price": 1299.99,
+      "stock": 50,
+      "description": "Powerful laptop with the latest processor and dedicated graphics"
+    },
+    {
+      "id": 2,
+      "name": "Smartphone X12",
+      "category": "Electronics",
+      "price": 799.99,
+      "stock": 100,
+      "description": "Latest model smartphone with advanced camera features and 5G capability"
+    },
+    {
+      "id": 3,
+      "name": "Smart Coffee Maker",
+      "category": "Home Appliances",
+      "price": 129.99,
+      "stock": 30,
+      "description": "Wi-Fi enabled programmable coffee maker with built-in grinder"
+    },
+    {
+      "id": 4,
+      "name": "Ultra Lightweight Running Shoes",
+      "category": "Sports",
+      "price": 159.99,
+      "stock": 75,
+      "description": "Professional-grade running shoes with superior cushioning and breathability"
+    },
+    {
+      "id": 5,
+      "name": "4K Smart TV",
+      "category": "Electronics",
+      "price": 699.99,
+      "stock": 25,
+      "description": "55-inch 4K resolution smart TV with HDR and built-in streaming apps"
+    },
+    {
+      "id": 6,
+      "name": "Wireless Noise-Cancelling Headphones",
+      "category": "Electronics",
+      "price": 249.99,
+      "stock": 60,
+      "description": "Over-ear headphones with active noise cancellation and 30-hour battery life"
+    },
+    {
+      "id": 7,
+      "name": "Robot Vacuum Cleaner",
+      "category": "Home Appliances",
+      "price": 299.99,
+      "stock": 40,
+      "description": "Smart robot vacuum with mapping technology and app control"
+    },
+    {
+      "id": 8,
+      "name": "Ergonomic Office Chair",
+      "category": "Furniture",
+      "price": 199.99,
+      "stock": 35,
+      "description": "Adjustable office chair with lumbar support and breathable mesh back"
+    },
+    {
+      "id": 9,
+      "name": "Professional DSLR Camera",
+      "category": "Electronics",
+      "price": 1499.99,
+      "stock": 20,
+      "description": "High-end DSLR camera with 45MP sensor and 4K video capability"
+    },
+    {
+      "id": 10,
+      "name": "Smart Home Security System",
+      "category": "Home & Security",
+      "price": 399.99,
+      "stock": 30,
+      "description": "Comprehensive security system with cameras, sensors, and mobile app integration"
+    },
+    {
+      "id": 11,
+      "name": "Electric Stand Mixer",
+      "category": "Kitchen Appliances",
+      "price": 279.99,
+      "stock": 45,
+      "description": "Powerful stand mixer with multiple attachments for various cooking tasks"
+    },
+    {
+      "id": 12,
+      "name": "Yoga Mat",
+      "category": "Sports",
+      "price": 29.99,
+      "stock": 100,
+      "description": "Non-slip, eco-friendly yoga mat with alignment lines"
+    },
+    {
+      "id": 13,
+      "name": "Wireless Gaming Mouse",
+      "category": "Electronics",
+      "price": 79.99,
+      "stock": 80,
+      "description": "High-precision wireless gaming mouse with customizable RGB lighting"
+    },
+    {
+      "id": 14,
+      "name": "Air Purifier",
+      "category": "Home Appliances",
+      "price": 199.99,
+      "stock": 50,
+      "description": "HEPA air purifier suitable for large rooms, with air quality sensor"
+    },
+    {
+      "id": 15,
+      "name": "Stainless Steel Cookware Set",
+      "category": "Kitchen",
+      "price": 349.99,
+      "stock": 25,
+      "description": "10-piece stainless steel cookware set with multi-layer base"
+    },
+    {
+      "id": 16,
+      "name": "Digital Drawing Tablet",
+      "category": "Electronics",
+      "price": 249.99,
+      "stock": 40,
+      "description": "Professional drawing tablet with pressure-sensitive pen and customizable shortcuts"
+    },
+    {
+      "id": 17,
+      "name": "Smart Watch",
+      "category": "Electronics",
+      "price": 199.99,
+      "stock": 70,
+      "description": "Fitness tracker and smartwatch with heart rate monitor and GPS"
+    },
+    {
+      "id": 18,
+      "name": "Portable Bluetooth Speaker",
+      "category": "Electronics",
+      "price": 89.99,
+      "stock": 90,
+      "description": "Waterproof Bluetooth speaker with 20-hour battery life"
+    },
+    {
+      "id": 19,
+      "name": "Electric Toothbrush",
+      "category": "Personal Care",
+      "price": 69.99,
+      "stock": 60,
+      "description": "Rechargeable electric toothbrush with multiple cleaning modes"
+    },
+    {
+      "id": 20,
+      "name": "Slow Cooker",
+      "category": "Kitchen Appliances",
+      "price": 49.99,
+      "stock": 55,
+      "description": "Programmable slow cooker with removable ceramic pot"
+    },
+    {
+      "id": 21,
+      "name": "Wireless Earbuds",
+      "category": "Electronics",
+      "price": 129.99,
+      "stock": 85,
+      "description": "True wireless earbuds with active noise cancellation and wireless charging case"
+    },
+    {
+      "id": 22,
+      "name": "Cotton Bedding Set",
+      "category": "Home & Living",
+      "price": 89.99,
+      "stock": 40,
+      "description": "100% cotton bedding set including duvet cover and pillowcases"
+    },
+    {
+      "id": 23,
+      "name": "Wireless Keyboard",
+      "category": "Electronics",
+      "price": 59.99,
+      "stock": 70,
+      "description": "Slim wireless keyboard with long battery life and ergonomic design"
+    },
+    {
+      "id": 24,
+      "name": "Indoor Plant",
+      "category": "Home & Garden",
+      "price": 34.99,
+      "stock": 50,
+      "description": "Low-maintenance indoor plant in decorative pot"
+    },
+    {
+      "id": 25,
+      "name": "Digital Kitchen Scale",
+      "category": "Kitchen",
+      "price": 19.99,
+      "stock": 100,
+      "description": "Precise digital kitchen scale with tare function and multiple units"
+    },
+    {
+      "id": 26,
+      "name": "Resistance Bands Set",
+      "category": "Sports",
+      "price": 24.99,
+      "stock": 120,
+      "description": "Set of 5 resistance bands with different strengths for home workouts"
+    },
+    {
+      "id": 27,
+      "name": "Smart Light Bulbs",
+      "category": "Home & Living",
+      "price": 39.99,
+      "stock": 80,
+      "description": "Set of 2 Wi-Fi enabled smart light bulbs with voice control compatibility"
+    },
+    {
+      "id": 28,
+      "name": "Electric Kettle",
+      "category": "Kitchen Appliances",
+      "price": 29.99,
+      "stock": 65,
+      "description": "Fast-boiling electric kettle with auto shut-off feature"
+    },
+    {
+      "id": 29,
+      "name": "Microfiber Towel Set",
+      "category": "Home & Living",
+      "price": 24.99,
+      "stock": 90,
+      "description": "Set of 6 quick-drying microfiber towels in various sizes"
+    },
+    {
+      "id": 30,
+      "name": "Portable External Battery",
+      "category": "Electronics",
+      "price": 49.99,
+      "stock": 110,
+      "description": "20000mAh portable battery pack with fast charging capability"
+    },
+    {
+      "id": 31,
+      "name": "Adjustable Dumbbell Set",
+      "category": "Sports",
+      "price": 299.99,
+      "stock": 25,
+      "description": "Space-saving adjustable dumbbell set with weight range from 5 to 52.5 lbs"
+    },
+    {
+      "id": 32,
+      "name": "Smart Thermostat",
+      "category": "Home & Living",
+      "price": 179.99,
+      "stock": 40,
+      "description": "Wi-Fi enabled smart thermostat with energy-saving features"
+    },
+    {
+      "id": 33,
+      "name": "Wireless Charging Pad",
+      "category": "Electronics",
+      "price": 29.99,
+      "stock": 95,
+      "description": "Qi-compatible wireless charging pad for smartphones and earbuds"
+    },
+    {
+      "id": 34,
+      "name": "Cast Iron Skillet",
+      "category": "Kitchen",
+      "price": 39.99,
+      "stock": 55,
+      "description": "Pre-seasoned 12-inch cast iron skillet for versatile cooking"
+    },
+    {
+      "id": 35,
+      "name": "Foam Roller",
+      "category": "Sports",
+      "price": 19.99,
+      "stock": 75,
+      "description": "High-density foam roller for muscle recovery and physical therapy"
+    },
+    {
+      "id": 36,
+      "name": "Digital Meat Thermometer",
+      "category": "Kitchen",
+      "price": 15.99,
+      "stock": 85,
+      "description": "Instant-read digital meat thermometer with backlit display"
+    },
+    {
+      "id": 37,
+      "name": "Sunrise Alarm Clock",
+      "category": "Home & Living",
+      "price": 44.99,
+      "stock": 60,
+      "description": "Wake-up light alarm clock with sunset simulation and nature sounds"
+    },
+    {
+      "id": 38,
+      "name": "Reusable Water Bottle",
+      "category": "Sports",
+      "price": 24.99,
+      "stock": 100,
+      "description": "Insulated stainless steel water bottle, keeps drinks cold for 24 hours"
+    },
+    {
+      "id": 39,
+      "name": "Wireless Printer",
+      "category": "Electronics",
+      "price": 129.99,
+      "stock": 35,
+      "description": "All-in-one wireless printer with scanning and copying capabilities"
+    },
+    {
+      "id": 40,
+      "name": "Portable Blender",
+      "category": "Kitchen Appliances",
+      "price": 34.99,
+      "stock": 70,
+      "description": "USB rechargeable portable blender for smoothies on-the-go"
+    },
+    {
+      "id": 41,
+      "name": "Smart Door Lock",
+      "category": "Home & Security",
+      "price": 199.99,
+      "stock": 30,
+      "description": "Keyless entry smart door lock with smartphone control"
+    },
+    {
+      "id": 42,
+      "name": "Electric Hair Clipper",
+      "category": "Personal Care",
+      "price": 39.99,
+      "stock": 65,
+      "description": "Professional-grade electric hair clipper with multiple length settings"
+    },
+    {
+      "id": 43,
+      "name": "Wireless Car Charger",
+      "category": "Electronics",
+      "price": 34.99,
+      "stock": 80,
+      "description": "Qi-compatible wireless car charger and phone mount"
+    },
+    {
+      "id": 44,
+      "name": "LED Desk Lamp",
+      "category": "Home & Living",
+      "price": 29.99,
+      "stock": 90,
+      "description": "Adjustable LED desk lamp with multiple brightness levels and color temperatures"
+    },
+    {
+      "id": 45,
+      "name": "Smart Plant Sensor",
+      "category": "Home & Garden",
+      "price": 39.99,
+      "stock": 50,
+      "description": "Wi-Fi enabled plant sensor that monitors soil moisture, light, and temperature"
+    },
+    {
+      "id": 46,
+      "name": "Cordless Stick Vacuum",
+      "category": "Home Appliances",
+      "price": 149.99,
+      "stock": 40,
+      "description": "Lightweight cordless stick vacuum with detachable handheld unit"
+    },
+    {
+      "id": 47,
+      "name": "Portable Monitor",
+      "category": "Electronics",
+      "price": 179.99,
+      "stock": 35,
+      "description": "15.6-inch portable monitor with USB-C and HDMI connectivity"
+    },
+    {
+      "id": 48,
+      "name": "Smart Scale",
+      "category": "Personal Care",
+      "price": 49.99,
+      "stock": 60,
+      "description": "Wi-Fi enabled smart scale that measures weight, body fat, and other metrics"
+    },
+    {
+      "id": 49,
+      "name": "Noise Machine",
+      "category": "Home & Living",
+      "price": 24.99,
+      "stock": 75,
+      "description": "White noise machine with 24 soothing sounds for better sleep"
+    },
+    {
+      "id": 50,
+      "name": "Compact Food Processor",
+      "category": "Kitchen Appliances",
+      "price": 39.99,
+      "stock": 55,
+      "description": "3-cup capacity food processor for quick chopping and mixing"
+    }
+  ]
+}
